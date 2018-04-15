@@ -1,0 +1,28 @@
+body {
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
+
+.text-center{
+  color:white;
+}
+
+#out{
+  color:white;
+}
+
+.temp {
+  color:white;
+}
+
+.location {
+  color: white;
+}
+
+.switch{
+  color:white;
+  opacity: 0;
+}
+
+#change{
+  opacity: 0;
+}
